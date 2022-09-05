@@ -1,0 +1,24 @@
+h1,h2 {
+    color: lightcoral;
+    background-color: aqua;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+
+}
+body{
+    color: blue;
+}
+#t4{
+    color: goldenrod;
+    font-size: 30px;
+    font-family:'Trebuchet MS';
+}
+.estilo1{
+    color: rgb(44, 188, 54);
+    font-style: italic;
+    font-size: 25px;
+}
